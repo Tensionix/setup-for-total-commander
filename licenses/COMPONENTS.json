@@ -1,0 +1,494 @@
+{
+  "schema": "audion.build_licenses.components.v1",
+  "generated_utc": "2026-08-24T17:47:23Z",
+  "project_id": "audion-setup-for-total-commander",
+  "project_name": "Audion Setup for Total Commander",
+  "scan_root": "S:\\Release\\Audion Setup for Total Commander",
+  "components": [
+    {
+      "id": "audion-tc-own-binaries",
+      "name": "Audion TC own binaries",
+      "normalized_name": "audion-tc-own-binaries",
+      "version": "bundled",
+      "license_summary": "Audion own code; Windows icon resources extracted from the installed system",
+      "source_kind": "audion-tc-plugin",
+      "bundled": true,
+      "optional_runtime": false,
+      "provider": "",
+      "artifact_sha256": "0288322d849860c8a4986e8052c175c6b395fa8f75b861cc8d8ba9977d9aed13",
+      "artifact_path": "Payload/AudionTC.exe; Payload/Wcmicon2.dll",
+      "obligation_class": "permissive",
+      "redistributable": true,
+      "source_reference": {
+        "type": "upstream_pin",
+        "url": "",
+        "version": "bundled",
+        "sha256": ""
+      },
+      "legal_documents": [
+        {
+          "sha256": "a73809e1ac6a8712ede097eff90f0806480d792e0072c4b2a316e9664e48a80c",
+          "display_name": "NOTICE-Audion-TC-Own-Binaries.md",
+          "source_path": "S:\\TOOLS\\Audion Build Licenses\\workspace\\runs\\20260824T174722Z_audion-setup-for-total-commander_2b90c53a\\collector_legal_files\\audion-tc-own-binaries-bundled\\NOTICE-Audion-TC-Own-Binaries.md",
+          "raw_size": 3218
+        }
+      ],
+      "metadata": {
+        "manifest": {
+          "name": "Audion TC own binaries",
+          "version": "bundled",
+          "license": "Audion own code; Windows icon resources extracted from the installed system",
+          "source": "audion-tc-plugin",
+          "whenPathExists": [
+            "AudionTC.exe",
+            "Wcmicon2.dll",
+            "Payload/AudionTC.exe",
+            "Payload/Wcmicon2.dll"
+          ],
+          "files": [
+            "files/NOTICE-Audion-TC-Own-Binaries.md"
+          ],
+          "obligation_class": "permissive",
+          "redistributable": true,
+          "source_archive": {
+            "type": "upstream_pin",
+            "url": "",
+            "version": "bundled",
+            "sha256": ""
+          }
+        }
+      },
+      "license_fingerprint": "826ccdc9532f1122a5225ee7e8dbb42dfadfc68c0e311a9cc190ae9309970fdf"
+    },
+    {
+      "id": "fzf",
+      "name": "fzf",
+      "normalized_name": "fzf",
+      "version": "bundled",
+      "license_summary": "MIT",
+      "source_kind": "baseline-tool",
+      "bundled": true,
+      "optional_runtime": false,
+      "provider": "",
+      "artifact_sha256": "a8802e36895dbef8d11f35fceadbeebe89c1b0d2c43810076f19a7b963461023",
+      "artifact_path": "Payload/Scripts/bin/fzf.exe",
+      "obligation_class": "permissive",
+      "redistributable": true,
+      "source_reference": null,
+      "legal_documents": [
+        {
+          "sha256": "a296f423c0d30ce3581435e78e7e36c5fe73984a882d8720c72e713b4593588b",
+          "display_name": "LICENSE-fzf.txt",
+          "source_path": "S:\\TOOLS\\Audion Build Licenses\\workspace\\runs\\20260824T174722Z_audion-setup-for-total-commander_2b90c53a\\collector_legal_files\\fzf-bundled\\LICENSE-fzf.txt",
+          "raw_size": 1106
+        }
+      ],
+      "metadata": {
+        "manifest": {
+          "name": "fzf",
+          "version": "bundled",
+          "license": "MIT",
+          "source": "baseline-tool",
+          "whenPathExists": [
+            "system_core/fzf.exe",
+            "Payload/Scripts/bin/fzf.exe",
+            "Scripts/bin/fzf.exe"
+          ],
+          "files": [
+            "files/LICENSE-fzf.txt"
+          ],
+          "obligation_class": "permissive",
+          "redistributable": true
+        }
+      },
+      "license_fingerprint": "bf922c015772507627d2c31ca50843b51513316f59809753d8e79dc33501bc74"
+    },
+    {
+      "id": "total-commander-plugin-dirsizecalc",
+      "name": "Total Commander plugin: DirSizeCalc",
+      "normalized_name": "total-commander-plugin-dirsizecalc",
+      "version": "2.22",
+      "license_summary": "copyrighted freeware",
+      "source_kind": "audion-tc-plugin",
+      "bundled": true,
+      "optional_runtime": false,
+      "provider": "",
+      "artifact_sha256": "d788b29e5b2dab98b65a7d272472e46eeb786bf7d24dae6cfe235117d3324864",
+      "artifact_path": "Payload/plugins/WDX64/DirSizeCalc/DirSizeCalc.wdx; Payload/plugins/WDX64/DirSizeCalc/DirSizeCalcSettings.exe; Payload/plugins/WDX64/DirSizeCalc/DirSizeCalcSettings64.exe; Payload/plugins/WLX64/DirSizeCalc Charts/DirSizeCalcCharts.wlx; Payload/plugins/WLX64/DirSizeCalc Charts/DirSizeCalcSettings.exe; Payload/plugins/WLX64/DirSizeCalc Charts/DirSizeCalcSettings64.exe",
+      "obligation_class": "permissive",
+      "redistributable": true,
+      "source_reference": {
+        "type": "upstream_pin",
+        "url": "https://totalcmd.net/plugring/dirsizecalc.html",
+        "version": "2.22",
+        "sha256": ""
+      },
+      "legal_documents": [
+        {
+          "sha256": "30ad49937b0754d61fe060986273b845a663491d947b08eee81f4aed4c562528",
+          "display_name": "NOTICE-Total-Commander-Plugins-Review.md",
+          "source_path": "S:\\TOOLS\\Audion Build Licenses\\workspace\\runs\\20260824T174722Z_audion-setup-for-total-commander_2b90c53a\\collector_legal_files\\total-commander-plugin-dirsizecalc-2.22\\NOTICE-Total-Commander-Plugins-Review.md",
+          "raw_size": 4475
+        }
+      ],
+      "metadata": {
+        "manifest": {
+          "name": "Total Commander plugin: DirSizeCalc",
+          "version": "2.22",
+          "license": "copyrighted freeware",
+          "source": "audion-tc-plugin",
+          "whenPathExists": [
+            "plugins/WDX64/DirSizeCalc/DirSizeCalc.wdx",
+            "plugins/WDX64/DirSizeCalc/DirSizeCalcSettings.exe",
+            "plugins/WDX64/DirSizeCalc/DirSizeCalcSettings64.exe",
+            "plugins/WLX64/DirSizeCalc Charts/DirSizeCalcCharts.wlx",
+            "plugins/WLX64/DirSizeCalc Charts/DirSizeCalcSettings.exe",
+            "plugins/WLX64/DirSizeCalc Charts/DirSizeCalcSettings64.exe",
+            "Payload/plugins/WDX64/DirSizeCalc/DirSizeCalc.wdx",
+            "Payload/plugins/WDX64/DirSizeCalc/DirSizeCalcSettings.exe",
+            "Payload/plugins/WDX64/DirSizeCalc/DirSizeCalcSettings64.exe",
+            "Payload/plugins/WLX64/DirSizeCalc Charts/DirSizeCalcCharts.wlx",
+            "Payload/plugins/WLX64/DirSizeCalc Charts/DirSizeCalcSettings.exe",
+            "Payload/plugins/WLX64/DirSizeCalc Charts/DirSizeCalcSettings64.exe"
+          ],
+          "files": [
+            "files/NOTICE-Total-Commander-Plugins-Review.md"
+          ],
+          "obligation_class": "permissive",
+          "redistributable": true,
+          "source_archive": {
+            "type": "upstream_pin",
+            "url": "https://totalcmd.net/plugring/dirsizecalc.html",
+            "version": "2.22",
+            "sha256": ""
+          }
+        }
+      },
+      "license_fingerprint": "2ea921b34cb74fd739eff95cdce032797f5424d913a194843b69e21e96a433be"
+    },
+    {
+      "id": "total-commander-plugin-exif",
+      "name": "Total Commander plugin: Exif",
+      "normalized_name": "total-commander-plugin-exif",
+      "version": "2.8",
+      "license_summary": "MIT",
+      "source_kind": "audion-tc-plugin",
+      "bundled": true,
+      "optional_runtime": false,
+      "provider": "",
+      "artifact_sha256": "5cc601d9682c29d8db9cf069645611f1f80a3f5799d40ea7bd12461bd8cda839",
+      "artifact_path": "Payload/plugins/WDX64/Exif/exif.wdx",
+      "obligation_class": "permissive",
+      "redistributable": true,
+      "source_reference": {
+        "type": "upstream_pin",
+        "url": "https://plugins.ghisler.com/content/wdx_exif.zip",
+        "version": "2.8",
+        "sha256": ""
+      },
+      "legal_documents": [
+        {
+          "sha256": "7a26177ecda4f12f7644d63fc287e9a6a571f105141b3f970567c2b9aed65ef4",
+          "display_name": "LICENSE-TC-Exif-MIT.txt",
+          "source_path": "S:\\TOOLS\\Audion Build Licenses\\workspace\\runs\\20260824T174722Z_audion-setup-for-total-commander_2b90c53a\\collector_legal_files\\total-commander-plugin-exif-2.8\\LICENSE-TC-Exif-MIT.txt",
+          "raw_size": 1169
+        }
+      ],
+      "metadata": {
+        "manifest": {
+          "name": "Total Commander plugin: Exif",
+          "version": "2.8",
+          "license": "MIT",
+          "source": "audion-tc-plugin",
+          "whenPathExists": [
+            "plugins/WDX64/Exif/exif.wdx",
+            "Payload/plugins/WDX64/Exif/exif.wdx"
+          ],
+          "files": [
+            "files/LICENSE-TC-Exif-MIT.txt"
+          ],
+          "obligation_class": "permissive",
+          "redistributable": true,
+          "source_archive": {
+            "type": "upstream_pin",
+            "url": "https://plugins.ghisler.com/content/wdx_exif.zip",
+            "version": "2.8",
+            "sha256": ""
+          }
+        }
+      },
+      "license_fingerprint": "cf491beb91c975ddc8bd22a78c7c6b346c368d2d60007cd33aea913361317b05"
+    },
+    {
+      "id": "total-commander-plugin-mediainfo",
+      "name": "Total Commander plugin: MediaInfo",
+      "normalized_name": "total-commander-plugin-mediainfo",
+      "version": "26.05",
+      "license_summary": "BSD-2-Clause",
+      "source_kind": "audion-tc-plugin",
+      "bundled": true,
+      "optional_runtime": false,
+      "provider": "",
+      "artifact_sha256": "4235fb6dbb2957edf317a0ea7e799fbcd2feead867e2d1c4842ee322eea2d0ee",
+      "artifact_path": "Payload/plugins/WDX64/MediaInfo/MediaInfo.dll; Payload/plugins/WDX64/MediaInfo/MediaInfo64.dll; Payload/plugins/WDX64/MediaInfo/mediainfo.wdx; Payload/plugins/WDX64/MediaInfo/src/src.rar",
+      "obligation_class": "permissive",
+      "redistributable": true,
+      "source_reference": {
+        "type": "upstream_pin",
+        "url": "https://totalcmd.net/plugring/mediainfo64.html",
+        "version": "26.05",
+        "sha256": ""
+      },
+      "legal_documents": [
+        {
+          "sha256": "1f185e24d9b2a2a1b54afcb85235d7e1e10ea86b2f51e93de834b10a9eb630fb",
+          "display_name": "LICENSE-MediaInfoLib-BSD-2-Clause.txt",
+          "source_path": "S:\\TOOLS\\Audion Build Licenses\\workspace\\runs\\20260824T174722Z_audion-setup-for-total-commander_2b90c53a\\collector_legal_files\\total-commander-plugin-mediainfo-26.05\\LICENSE-MediaInfoLib-BSD-2-Clause.txt",
+          "raw_size": 2798
+        }
+      ],
+      "metadata": {
+        "manifest": {
+          "name": "Total Commander plugin: MediaInfo",
+          "version": "26.05",
+          "license": "BSD-2-Clause",
+          "source": "audion-tc-plugin",
+          "whenPathExists": [
+            "plugins/WDX64/MediaInfo/mediainfo.wdx",
+            "plugins/WDX64/MediaInfo/MediaInfo.dll",
+            "plugins/WDX64/MediaInfo/MediaInfo64.dll",
+            "plugins/WDX64/MediaInfo/src/src.rar",
+            "Payload/plugins/WDX64/MediaInfo/mediainfo.wdx",
+            "Payload/plugins/WDX64/MediaInfo/MediaInfo.dll",
+            "Payload/plugins/WDX64/MediaInfo/MediaInfo64.dll",
+            "Payload/plugins/WDX64/MediaInfo/src/src.rar"
+          ],
+          "files": [
+            "files/LICENSE-MediaInfoLib-BSD-2-Clause.txt"
+          ],
+          "obligation_class": "permissive",
+          "redistributable": true,
+          "source_archive": {
+            "type": "upstream_pin",
+            "url": "https://totalcmd.net/plugring/mediainfo64.html",
+            "version": "26.05",
+            "sha256": ""
+          }
+        }
+      },
+      "license_fingerprint": "5977d55bcc74e2f5f3143410f997d09e054ef9141ad39247bcc4acd3edef1517"
+    },
+    {
+      "id": "total-commander-plugin-office2007",
+      "name": "Total Commander plugin: Office2007",
+      "normalized_name": "total-commander-plugin-office2007",
+      "version": "0.0.6.5",
+      "license_summary": "CPOL-1.02",
+      "source_kind": "audion-tc-plugin",
+      "bundled": true,
+      "optional_runtime": false,
+      "provider": "",
+      "artifact_sha256": "bf0c3c281aa12943d00fb253c3f4e7c39b467d68c0c1075ac1cf6b9da4aa7040",
+      "artifact_path": "Payload/plugins/WLX64/Office2007wlx_64/Office2007.wlx",
+      "obligation_class": "permissive",
+      "redistributable": true,
+      "source_reference": {
+        "type": "upstream_pin",
+        "url": "https://totalcmd.net/plugring/office2007wlx.html",
+        "version": "0.0.6.5",
+        "sha256": ""
+      },
+      "legal_documents": [
+        {
+          "sha256": "c669f18dfcefb134f8021f3369845f23981361a3dfd138c7af999640d8ad993d",
+          "display_name": "LICENSE-Office2007wlx-CPOL-1.02.txt",
+          "source_path": "S:\\TOOLS\\Audion Build Licenses\\workspace\\runs\\20260824T174722Z_audion-setup-for-total-commander_2b90c53a\\collector_legal_files\\total-commander-plugin-office2007-0.0.6.5\\LICENSE-Office2007wlx-CPOL-1.02.txt",
+          "raw_size": 12543
+        }
+      ],
+      "metadata": {
+        "manifest": {
+          "name": "Total Commander plugin: Office2007",
+          "version": "0.0.6.5",
+          "license": "CPOL-1.02",
+          "source": "audion-tc-plugin",
+          "whenPathExists": [
+            "plugins/WLX64/Office2007wlx_64/Office2007.wlx",
+            "Payload/plugins/WLX64/Office2007wlx_64/Office2007.wlx"
+          ],
+          "files": [
+            "files/LICENSE-Office2007wlx-CPOL-1.02.txt"
+          ],
+          "obligation_class": "permissive",
+          "redistributable": true,
+          "source_archive": {
+            "type": "upstream_pin",
+            "url": "https://totalcmd.net/plugring/office2007wlx.html",
+            "version": "0.0.6.5",
+            "sha256": ""
+          }
+        }
+      },
+      "license_fingerprint": "ab173fdac7e5d3ee40d2e7f09b6a9fa8f2453ef7b54f5a9a41e486fa84e08db0"
+    },
+    {
+      "id": "total-commander-plugin-webdav",
+      "name": "Total Commander plugin: WebDAV",
+      "normalized_name": "total-commander-plugin-webdav",
+      "version": "3.2",
+      "license_summary": "MIT and MPL-1.1 parts",
+      "source_kind": "audion-tc-plugin",
+      "bundled": true,
+      "optional_runtime": false,
+      "provider": "",
+      "artifact_sha256": "e56fe3960223a2ef0d7dfd0dcc3c0c32571d606a92650bf93eee08c2dcea56bc",
+      "artifact_path": "Payload/plugins/WFX64/WebDAV/davplug.wfx; Payload/plugins/WFX64/WebDAV/qrcodelib.dll; Payload/plugins/WFX64/WebDAV/qrcodelib64.dll",
+      "obligation_class": "weak_copyleft",
+      "redistributable": true,
+      "source_reference": {
+        "type": "upstream_pin",
+        "url": "https://plugins.ghisler.com/fsplugins/webdav.zip",
+        "version": "3.2",
+        "sha256": ""
+      },
+      "legal_documents": [
+        {
+          "sha256": "30ad49937b0754d61fe060986273b845a663491d947b08eee81f4aed4c562528",
+          "display_name": "NOTICE-Total-Commander-Plugins-Review.md",
+          "source_path": "S:\\TOOLS\\Audion Build Licenses\\workspace\\runs\\20260824T174722Z_audion-setup-for-total-commander_2b90c53a\\collector_legal_files\\total-commander-plugin-webdav-3.2\\NOTICE-Total-Commander-Plugins-Review.md",
+          "raw_size": 4475
+        }
+      ],
+      "metadata": {
+        "manifest": {
+          "name": "Total Commander plugin: WebDAV",
+          "version": "3.2",
+          "license": "MIT and MPL-1.1 parts",
+          "source": "audion-tc-plugin",
+          "whenPathExists": [
+            "plugins/WFX64/WebDAV/davplug.wfx",
+            "plugins/WFX64/WebDAV/qrcodelib.dll",
+            "plugins/WFX64/WebDAV/qrcodelib64.dll",
+            "Payload/plugins/WFX64/WebDAV/davplug.wfx",
+            "Payload/plugins/WFX64/WebDAV/qrcodelib.dll",
+            "Payload/plugins/WFX64/WebDAV/qrcodelib64.dll"
+          ],
+          "files": [
+            "files/NOTICE-Total-Commander-Plugins-Review.md"
+          ],
+          "obligation_class": "weak_copyleft",
+          "redistributable": true,
+          "source_archive": {
+            "type": "upstream_pin",
+            "url": "https://plugins.ghisler.com/fsplugins/webdav.zip",
+            "version": "3.2",
+            "sha256": ""
+          }
+        }
+      },
+      "license_fingerprint": "3284d4e92996daa6ede78fe55322465678d93d6b2ac5fcbcd8a630be670e8496"
+    },
+    {
+      "id": "total-commander-plugin-xpdfsearch",
+      "name": "Total Commander plugin: xPDFSearch",
+      "normalized_name": "total-commander-plugin-xpdfsearch",
+      "version": "1.47.1",
+      "license_summary": "GPL-2.0-or-later",
+      "source_kind": "audion-tc-plugin",
+      "bundled": true,
+      "optional_runtime": false,
+      "provider": "",
+      "artifact_sha256": "e52b5783ccdd3aaa8af362b52ddb7cf41d211a3f602184ec2780aa3ee5c2df40",
+      "artifact_path": "Payload/plugins/WDX64/xPDFSearch/xPDFSearch.wdx",
+      "obligation_class": "strong_copyleft",
+      "redistributable": true,
+      "source_reference": {
+        "type": "upstream_pin",
+        "url": "https://github.com/tgotic/xPDFSearch",
+        "version": "1.47.1",
+        "sha256": ""
+      },
+      "legal_documents": [
+        {
+          "sha256": "b90ed8150a6d371c84b7dbaa680cd0e9893ef7c2558765e1e00930513efcfe3b",
+          "display_name": "LICENSE-xPDFSearch-GPL-2.0.txt",
+          "source_path": "S:\\TOOLS\\Audion Build Licenses\\workspace\\runs\\20260824T174722Z_audion-setup-for-total-commander_2b90c53a\\collector_legal_files\\total-commander-plugin-xpdfsearch-1.47.1\\LICENSE-xPDFSearch-GPL-2.0.txt",
+          "raw_size": 18092
+        },
+        {
+          "sha256": "30ad49937b0754d61fe060986273b845a663491d947b08eee81f4aed4c562528",
+          "display_name": "NOTICE-Total-Commander-Plugins-Review.md",
+          "source_path": "S:\\TOOLS\\Audion Build Licenses\\workspace\\runs\\20260824T174722Z_audion-setup-for-total-commander_2b90c53a\\collector_legal_files\\total-commander-plugin-xpdfsearch-1.47.1\\NOTICE-Total-Commander-Plugins-Review.md",
+          "raw_size": 4475
+        }
+      ],
+      "metadata": {
+        "manifest": {
+          "name": "Total Commander plugin: xPDFSearch",
+          "version": "1.47.1",
+          "license": "GPL-2.0-or-later",
+          "source": "audion-tc-plugin",
+          "whenPathExists": [
+            "plugins/WDX64/xPDFSearch/xPDFSearch.wdx",
+            "Payload/plugins/WDX64/xPDFSearch/xPDFSearch.wdx"
+          ],
+          "files": [
+            "files/LICENSE-xPDFSearch-GPL-2.0.txt",
+            "files/NOTICE-Total-Commander-Plugins-Review.md"
+          ],
+          "obligation_class": "strong_copyleft",
+          "redistributable": true,
+          "source_archive": {
+            "type": "upstream_pin",
+            "url": "https://github.com/tgotic/xPDFSearch",
+            "version": "1.47.1",
+            "sha256": ""
+          }
+        }
+      },
+      "license_fingerprint": "910523851c08a90443958a803c6f161c46043ae9c0313cb9579f7268bc4d7602"
+    },
+    {
+      "id": "windows-terminal",
+      "name": "Windows Terminal",
+      "normalized_name": "windows-terminal",
+      "version": "bundled",
+      "license_summary": "MIT",
+      "source_kind": "portable-app",
+      "bundled": true,
+      "optional_runtime": false,
+      "provider": "",
+      "artifact_sha256": "cb391e1d8576a0d4ae09a86668cc848ba5210fc02154541ec5ba8bf8907d8967",
+      "artifact_path": "Payload/Apps/terminal/.portable; Payload/Apps/terminal/CascadiaCode.ttf; Payload/Apps/terminal/CascadiaCodeItalic.ttf; Payload/Apps/terminal/CascadiaMono.ttf; Payload/Apps/terminal/CascadiaMonoItalic.ttf; Payload/Apps/terminal/Images/terminal_contrast-black.ico; Payload/Apps/terminal/Images/terminal_contrast-white.ico; Payload/Apps/terminal/Microsoft.Terminal.Control.dll",
+      "obligation_class": "permissive",
+      "redistributable": true,
+      "source_reference": null,
+      "legal_documents": [
+        {
+          "sha256": "ad0cf28f3381ca9bb0bf101d127402d44c17bfa0991e1a00bff7ae6679e9dada",
+          "display_name": "LICENSE-WindowsTerminal-MIT.txt",
+          "source_path": "S:\\TOOLS\\Audion Build Licenses\\workspace\\runs\\20260824T174722Z_audion-setup-for-total-commander_2b90c53a\\collector_legal_files\\windows-terminal-bundled\\LICENSE-WindowsTerminal-MIT.txt",
+          "raw_size": 1116
+        }
+      ],
+      "metadata": {
+        "manifest": {
+          "name": "Windows Terminal",
+          "version": "bundled",
+          "license": "MIT",
+          "source": "portable-app",
+          "whenPathExists": [
+            "Apps/terminal",
+            "Payload/Apps/terminal"
+          ],
+          "files": [
+            "files/LICENSE-WindowsTerminal-MIT.txt"
+          ],
+          "obligation_class": "permissive",
+          "redistributable": true
+        }
+      },
+      "license_fingerprint": "02ad21c66dfab806b85bc793d157c07b461a75151075f661a2d65d7dc0472c83"
+    }
+  ]
+}

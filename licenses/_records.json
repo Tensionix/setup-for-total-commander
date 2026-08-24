@@ -1,0 +1,120 @@
+[
+  {
+    "name": "Audion TC own binaries",
+    "version": "bundled",
+    "license": "Audion own code; Windows icon resources extracted from the installed system",
+    "source": "audion-tc-plugin",
+    "license_files": [
+      "licenses/THIRD_PARTY_NOTICES.txt"
+    ],
+    "license_fingerprint": "826ccdc9532f1122a5225ee7e8dbb42dfadfc68c0e311a9cc190ae9309970fdf",
+    "legal_document_hashes": [
+      "a73809e1ac6a8712ede097eff90f0806480d792e0072c4b2a316e9664e48a80c"
+    ]
+  },
+  {
+    "name": "fzf",
+    "version": "bundled",
+    "license": "MIT",
+    "source": "baseline-tool",
+    "license_files": [
+      "licenses/THIRD_PARTY_NOTICES.txt"
+    ],
+    "license_fingerprint": "bf922c015772507627d2c31ca50843b51513316f59809753d8e79dc33501bc74",
+    "legal_document_hashes": [
+      "a296f423c0d30ce3581435e78e7e36c5fe73984a882d8720c72e713b4593588b"
+    ]
+  },
+  {
+    "name": "Total Commander plugin: DirSizeCalc",
+    "version": "2.22",
+    "license": "copyrighted freeware",
+    "source": "audion-tc-plugin",
+    "license_files": [
+      "licenses/THIRD_PARTY_NOTICES.txt"
+    ],
+    "license_fingerprint": "2ea921b34cb74fd739eff95cdce032797f5424d913a194843b69e21e96a433be",
+    "legal_document_hashes": [
+      "30ad49937b0754d61fe060986273b845a663491d947b08eee81f4aed4c562528"
+    ]
+  },
+  {
+    "name": "Total Commander plugin: Exif",
+    "version": "2.8",
+    "license": "MIT",
+    "source": "audion-tc-plugin",
+    "license_files": [
+      "licenses/THIRD_PARTY_NOTICES.txt"
+    ],
+    "license_fingerprint": "cf491beb91c975ddc8bd22a78c7c6b346c368d2d60007cd33aea913361317b05",
+    "legal_document_hashes": [
+      "7a26177ecda4f12f7644d63fc287e9a6a571f105141b3f970567c2b9aed65ef4"
+    ]
+  },
+  {
+    "name": "Total Commander plugin: MediaInfo",
+    "version": "26.05",
+    "license": "BSD-2-Clause",
+    "source": "audion-tc-plugin",
+    "license_files": [
+      "licenses/THIRD_PARTY_NOTICES.txt"
+    ],
+    "license_fingerprint": "5977d55bcc74e2f5f3143410f997d09e054ef9141ad39247bcc4acd3edef1517",
+    "legal_document_hashes": [
+      "1f185e24d9b2a2a1b54afcb85235d7e1e10ea86b2f51e93de834b10a9eb630fb"
+    ]
+  },
+  {
+    "name": "Total Commander plugin: Office2007",
+    "version": "0.0.6.5",
+    "license": "CPOL-1.02",
+    "source": "audion-tc-plugin",
+    "license_files": [
+      "licenses/THIRD_PARTY_NOTICES.txt"
+    ],
+    "license_fingerprint": "ab173fdac7e5d3ee40d2e7f09b6a9fa8f2453ef7b54f5a9a41e486fa84e08db0",
+    "legal_document_hashes": [
+      "c669f18dfcefb134f8021f3369845f23981361a3dfd138c7af999640d8ad993d"
+    ]
+  },
+  {
+    "name": "Total Commander plugin: WebDAV",
+    "version": "3.2",
+    "license": "MIT and MPL-1.1 parts",
+    "source": "audion-tc-plugin",
+    "license_files": [
+      "licenses/THIRD_PARTY_NOTICES.txt"
+    ],
+    "license_fingerprint": "3284d4e92996daa6ede78fe55322465678d93d6b2ac5fcbcd8a630be670e8496",
+    "legal_document_hashes": [
+      "30ad49937b0754d61fe060986273b845a663491d947b08eee81f4aed4c562528"
+    ]
+  },
+  {
+    "name": "Total Commander plugin: xPDFSearch",
+    "version": "1.47.1",
+    "license": "GPL-2.0-or-later",
+    "source": "audion-tc-plugin",
+    "license_files": [
+      "licenses/THIRD_PARTY_NOTICES.txt"
+    ],
+    "license_fingerprint": "910523851c08a90443958a803c6f161c46043ae9c0313cb9579f7268bc4d7602",
+    "legal_document_hashes": [
+      "30ad49937b0754d61fe060986273b845a663491d947b08eee81f4aed4c562528",
+      "b90ed8150a6d371c84b7dbaa680cd0e9893ef7c2558765e1e00930513efcfe3b"
+    ]
+  },
+  {
+    "name": "Windows Terminal",
+    "version": "bundled",
+    "license": "MIT",
+    "source": "portable-app",
+    "license_files": [
+      "licenses/THIRD_PARTY_NOTICES.txt"
+    ],
+    "license_fingerprint": "02ad21c66dfab806b85bc793d157c07b461a75151075f661a2d65d7dc0472c83",
+    "legal_document_hashes": [
+      "ad0cf28f3381ca9bb0bf101d127402d44c17bfa0991e1a00bff7ae6679e9dada"
+    ]
+  }
+]

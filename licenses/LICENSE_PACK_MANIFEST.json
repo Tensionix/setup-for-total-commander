@@ -1,0 +1,36 @@
+{
+  "schema": "audion.build_licenses.pack_manifest.v1",
+  "generated_utc": "2026-08-24T17:47:23Z",
+  "run_id": "20260824T174722Z_audion-setup-for-total-commander_2b90c53a",
+  "project_id": "audion-setup-for-total-commander",
+  "project_name": "Audion Setup for Total Commander",
+  "scan_root": "S:\\Release\\Audion Setup for Total Commander",
+  "output_dir": "S:\\Release\\Audion Setup for Total Commander\\licenses",
+  "files": [
+    {
+      "name": "THIRD_PARTY_NOTICES.txt",
+      "sha256": "06a33ed0334c06873890ced27b563a485c2550e4cbb5748916c6a01c6a39e552",
+      "size": 50615
+    },
+    {
+      "name": "SOURCE_CODE_AVAILABILITY.txt",
+      "sha256": "e357e7768b7b70c01b4870797f6f471bb7fbcd9f9819ba4c16c29fbb511632e4",
+      "size": 1644
+    },
+    {
+      "name": "COMPONENTS.json",
+      "sha256": "643f60193cc7395eb1f5e51598bf56c29cae85cb555ad280596ac25f57911dc6",
+      "size": 20733
+    },
+    {
+      "name": "_records.json",
+      "sha256": "661ecf65b5efc8bb398a22b90f6a66accb85b4835fa1511e5be0667c7a37e117",
+      "size": 3873
+    },
+    {
+      "name": "LICENSE_SCAN_REPORT.md",
+      "sha256": "badc04bf9d7f489b9668f04191bd60f75a19d5436220031dcece4cce03910c88",
+      "size": 1266
+    }
+  ]
+}

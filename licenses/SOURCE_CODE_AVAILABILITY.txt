@@ -1,0 +1,55 @@
+SOURCE CODE AND UPSTREAM AVAILABILITY
+================================================================================
+
+Project: Audion Setup for Total Commander (audion-setup-for-total-commander)
+
+This file is generated from component profiles. It is an engineering
+record and does not replace review of the applicable license terms.
+
+BUNDLED COMPONENTS WITH SOURCE REFERENCES
+--------------------------------------------------------------------------------
+Component: Audion TC own binaries
+Version/profile: bundled
+Method: upstream_pin
+version: bundled
+
+Component: Total Commander plugin: DirSizeCalc
+Version/profile: 2.22
+Method: upstream_pin
+version: 2.22
+url: https://totalcmd.net/plugring/dirsizecalc.html
+
+Component: Total Commander plugin: Exif
+Version/profile: 2.8
+Method: upstream_pin
+version: 2.8
+url: https://plugins.ghisler.com/content/wdx_exif.zip
+
+Component: Total Commander plugin: MediaInfo
+Version/profile: 26.05
+Method: upstream_pin
+version: 26.05
+url: https://totalcmd.net/plugring/mediainfo64.html
+
+Component: Total Commander plugin: Office2007
+Version/profile: 0.0.6.5
+Method: upstream_pin
+version: 0.0.6.5
+url: https://totalcmd.net/plugring/office2007wlx.html
+
+Component: Total Commander plugin: WebDAV
+Version/profile: 3.2
+Method: upstream_pin
+version: 3.2
+url: https://plugins.ghisler.com/fsplugins/webdav.zip
+
+Component: Total Commander plugin: xPDFSearch
+Version/profile: 1.47.1
+Method: upstream_pin
+version: 1.47.1
+url: https://github.com/tgotic/xPDFSearch
+
+
+OPTIONAL RUNTIME COMPONENTS
+--------------------------------------------------------------------------------
+No optional runtime source records registered.
