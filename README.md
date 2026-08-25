@@ -8,7 +8,7 @@
 - [Direct download](https://audion.dev/get/setup-for-total-commander/1.0.0/Audion_Setup_for_Total_Commander_v1.0.0_Full.zip) — unmetered, no rate limits
 - [Project page](https://audion.dev/downloads/setup-for-total-commander) — every version and how to install
 
-![The program window](docs/screenshot.png)
+<img src="docs/screenshot.png" alt="The program window" width="560">
 
 `SHA-256: 3a641cf9a8973f4d4cd358721eb162c501f972211e7a5116b1115478ab14df8c`
 
