@@ -1,14 +1,19 @@
 # Audion TC
 
 <!-- audion:release -->
-[![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0b6db8?style=flat-square&logo=windows&logoColor=white)](https://audion.dev/downloads/setup-for-total-commander) [![Release](https://img.shields.io/github/v/release/Tensionix/setup-for-total-commander?style=flat-square&label=release&color=e08a63)](https://github.com/Tensionix/setup-for-total-commander/releases/latest) [![Downloads](https://img.shields.io/github/downloads/Tensionix/setup-for-total-commander/total?style=flat-square&label=downloads&color=5fd08a)](https://github.com/Tensionix/setup-for-total-commander/releases) [![License](https://img.shields.io/github/license/Tensionix/setup-for-total-commander?style=flat-square&color=5fd08a&logo=apache&logoColor=white&cacheSeconds=3600)](https://github.com/Tensionix/setup-for-total-commander/blob/main/LICENSE)
+<p align="center">
+  <a href="https://audion.dev/downloads/setup-for-total-commander"><img alt="Windows" src="https://img.shields.io/badge/Windows-10%20%7C%2011-0b6db8?style=flat-square&logo=windows&logoColor=white"></a>
+  <a href="https://github.com/Tensionix/setup-for-total-commander/releases/latest"><img alt="Release" src="https://img.shields.io/github/v/release/Tensionix/setup-for-total-commander?style=flat-square&label=release&color=e08a63"></a>
+  <a href="https://github.com/Tensionix/setup-for-total-commander/releases"><img alt="Downloads" src="https://img.shields.io/github/downloads/Tensionix/setup-for-total-commander/total?style=flat-square&label=downloads&color=5fd08a"></a>
+  <a href="https://github.com/Tensionix/setup-for-total-commander/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/Tensionix/setup-for-total-commander?style=flat-square&color=5fd08a&logo=apache&logoColor=white&cacheSeconds=3600"></a>
+</p>
 
 **Version 1.0.0** · 2026-08-25 · 46.8 MB
 
 - [Direct download](https://audion.dev/get/setup-for-total-commander/1.0.0/Audion_Setup_for_Total_Commander_v1.0.0_Full.zip) — unmetered, no rate limits
 - [Project page](https://audion.dev/downloads/setup-for-total-commander) — every version and how to install
 
-<img src="docs/screenshot.png" alt="The program window" width="560">
+<p align="center"><img src="docs/screenshot.png" alt="The program window" width="560"></p>
 
 `SHA-256: 3a641cf9a8973f4d4cd358721eb162c501f972211e7a5116b1115478ab14df8c`
 
