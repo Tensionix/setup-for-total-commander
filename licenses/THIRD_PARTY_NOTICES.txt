@@ -81,7 +81,7 @@ CONSOLIDATED LEGAL DOCUMENTS
 [L-1f185e24d9b2] LICENSE-MediaInfoLib-BSD-2-Clause.txt
 SHA256: 1f185e24d9b2a2a1b54afcb85235d7e1e10ea86b2f51e93de834b10a9eb630fb
 Components: Total Commander plugin: MediaInfo
-Captured from: S:\TOOLS\Audion Build Licenses\workspace\runs\20260824T174722Z_audion-setup-for-total-commander_2b90c53a\collector_legal_files\total-commander-plugin-mediainfo-26.05\LICENSE-MediaInfoLib-BSD-2-Clause.txt
+Captured from: S:\TOOLS\Audion Build Licenses\workspace\runs\20260901T043951Z_audion-setup-for-total-commander_4d3527d4\collector_legal_files\total-commander-plugin-mediainfo-26.05\LICENSE-MediaInfoLib-BSD-2-Clause.txt
 --------------------------------------------------------------------------------
 MediaInfo(Lib) License
 Copyright (c) 2002-2025
@@ -162,7 +162,7 @@ Max Pozdeev (former native Mac GUI developer)
 [L-30ad49937b07] NOTICE-Total-Commander-Plugins-Review.md
 SHA256: 30ad49937b0754d61fe060986273b845a663491d947b08eee81f4aed4c562528
 Components: Total Commander plugin: DirSizeCalc, Total Commander plugin: WebDAV, Total Commander plugin: xPDFSearch
-Captured from: S:\TOOLS\Audion Build Licenses\workspace\runs\20260824T174722Z_audion-setup-for-total-commander_2b90c53a\collector_legal_files\total-commander-plugin-dirsizecalc-2.22\NOTICE-Total-Commander-Plugins-Review.md
+Captured from: S:\TOOLS\Audion Build Licenses\workspace\runs\20260901T043951Z_audion-setup-for-total-commander_4d3527d4\collector_legal_files\total-commander-plugin-dirsizecalc-2.22\NOTICE-Total-Commander-Plugins-Review.md
 --------------------------------------------------------------------------------
 # Плагины Total Commander в сборке Audion TC
 
@@ -230,7 +230,7 @@ Captured from: S:\TOOLS\Audion Build Licenses\workspace\runs\20260824T174722Z_au
 [L-7a26177ecda4] LICENSE-TC-Exif-MIT.txt
 SHA256: 7a26177ecda4f12f7644d63fc287e9a6a571f105141b3f970567c2b9aed65ef4
 Components: Total Commander plugin: Exif
-Captured from: S:\TOOLS\Audion Build Licenses\workspace\runs\20260824T174722Z_audion-setup-for-total-commander_2b90c53a\collector_legal_files\total-commander-plugin-exif-2.8\LICENSE-TC-Exif-MIT.txt
+Captured from: S:\TOOLS\Audion Build Licenses\workspace\runs\20260901T043951Z_audion-setup-for-total-commander_4d3527d4\collector_legal_files\total-commander-plugin-exif-2.8\LICENSE-TC-Exif-MIT.txt
 --------------------------------------------------------------------------------
 This plugin is published under the modified MIT licence:
 
@@ -260,7 +260,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 [L-a296f423c0d3] LICENSE-fzf.txt
 SHA256: a296f423c0d30ce3581435e78e7e36c5fe73984a882d8720c72e713b4593588b
 Components: fzf
-Captured from: S:\TOOLS\Audion Build Licenses\workspace\runs\20260824T174722Z_audion-setup-for-total-commander_2b90c53a\collector_legal_files\fzf-bundled\LICENSE-fzf.txt
+Captured from: S:\TOOLS\Audion Build Licenses\workspace\runs\20260901T043951Z_audion-setup-for-total-commander_4d3527d4\collector_legal_files\fzf-bundled\LICENSE-fzf.txt
 --------------------------------------------------------------------------------
 The MIT License (MIT)
 
@@ -289,7 +289,7 @@ THE SOFTWARE.
 [L-a73809e1ac6a] NOTICE-Audion-TC-Own-Binaries.md
 SHA256: a73809e1ac6a8712ede097eff90f0806480d792e0072c4b2a316e9664e48a80c
 Components: Audion TC own binaries
-Captured from: S:\TOOLS\Audion Build Licenses\workspace\runs\20260824T174722Z_audion-setup-for-total-commander_2b90c53a\collector_legal_files\audion-tc-own-binaries-bundled\NOTICE-Audion-TC-Own-Binaries.md
+Captured from: S:\TOOLS\Audion Build Licenses\workspace\runs\20260901T043951Z_audion-setup-for-total-commander_4d3527d4\collector_legal_files\audion-tc-own-binaries-bundled\NOTICE-Audion-TC-Own-Binaries.md
 --------------------------------------------------------------------------------
 # Собственные бинарники сборки Audion TC
 
@@ -340,7 +340,7 @@ Windows рисует для них сама; иных изображений Mic
 [L-ad0cf28f3381] LICENSE-WindowsTerminal-MIT.txt
 SHA256: ad0cf28f3381ca9bb0bf101d127402d44c17bfa0991e1a00bff7ae6679e9dada
 Components: Windows Terminal
-Captured from: S:\TOOLS\Audion Build Licenses\workspace\runs\20260824T174722Z_audion-setup-for-total-commander_2b90c53a\collector_legal_files\windows-terminal-bundled\LICENSE-WindowsTerminal-MIT.txt
+Captured from: S:\TOOLS\Audion Build Licenses\workspace\runs\20260901T043951Z_audion-setup-for-total-commander_4d3527d4\collector_legal_files\windows-terminal-bundled\LICENSE-WindowsTerminal-MIT.txt
 --------------------------------------------------------------------------------
 Copyright (c) Microsoft Corporation. All rights reserved.
 
@@ -369,7 +369,7 @@ SOFTWARE.
 [L-b90ed8150a6d] LICENSE-xPDFSearch-GPL-2.0.txt
 SHA256: b90ed8150a6d371c84b7dbaa680cd0e9893ef7c2558765e1e00930513efcfe3b
 Components: Total Commander plugin: xPDFSearch
-Captured from: S:\TOOLS\Audion Build Licenses\workspace\runs\20260824T174722Z_audion-setup-for-total-commander_2b90c53a\collector_legal_files\total-commander-plugin-xpdfsearch-1.47.1\LICENSE-xPDFSearch-GPL-2.0.txt
+Captured from: S:\TOOLS\Audion Build Licenses\workspace\runs\20260901T043951Z_audion-setup-for-total-commander_4d3527d4\collector_legal_files\total-commander-plugin-xpdfsearch-1.47.1\LICENSE-xPDFSearch-GPL-2.0.txt
 --------------------------------------------------------------------------------
 GNU GENERAL PUBLIC LICENSE
                        Version 2, June 1991
@@ -716,7 +716,7 @@ Public License instead of this License.
 [L-c669f18dfcef] LICENSE-Office2007wlx-CPOL-1.02.txt
 SHA256: c669f18dfcefb134f8021f3369845f23981361a3dfd138c7af999640d8ad993d
 Components: Total Commander plugin: Office2007
-Captured from: S:\TOOLS\Audion Build Licenses\workspace\runs\20260824T174722Z_audion-setup-for-total-commander_2b90c53a\collector_legal_files\total-commander-plugin-office2007-0.0.6.5\LICENSE-Office2007wlx-CPOL-1.02.txt
+Captured from: S:\TOOLS\Audion Build Licenses\workspace\runs\20260901T043951Z_audion-setup-for-total-commander_4d3527d4\collector_legal_files\total-commander-plugin-office2007-0.0.6.5\LICENSE-Office2007wlx-CPOL-1.02.txt
 --------------------------------------------------------------------------------
 The Code Project Open License (CPOL) 1.02
 
