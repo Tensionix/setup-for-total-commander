@@ -207,17 +207,17 @@ untouched.
 After the install all documentation lives in the build's folder, in `Docs\` (the
 same files are in `Payload\Docs\` of this package):
 
-- [`USER_GUIDE.md`](Payload/Docs/USER_GUIDE.md) — the control console: updating
+- `USER_GUIDE.md` — the control console: updating
   programs and plugins, backing up settings, preparing for distribution;
-- [`README_Shortcuts.md`](Payload/Docs/README_Shortcuts.md) — our keyboard
+- `README_Shortcuts.md` — our keyboard
   shortcuts beyond the stock ones;
-- [`PROJECT.md`](Payload/Docs/PROJECT.md) — how the build works: the decisions
+- `PROJECT.md` — how the build works: the decisions
   that are not visible from the code in a minute — editors, themes, the loader,
   icons, the installer;
-- [`fastfetch.md`](Payload/Docs/fastfetch.md), [`bottom.md`](Payload/Docs/bottom.md) —
+- `fastfetch.md`, `bottom.md` —
   the resident utilities;
-- [`Portable-Apps.md`](Payload/Docs/Portable-Apps.md) — how the programs in `Apps`
+- `Portable-Apps.md` — how the programs in `Apps`
   are portable by their own means and what is configured in advance (honestly and
   openly);
-- [`mpv.md`](Payload/Docs/mpv.md) — the mpv player and its config, line by line;
+- `mpv.md` — the mpv player and its config, line by line;
 - `Docs\PDF\` — the same documents as PDF, for reading without Markdown.
