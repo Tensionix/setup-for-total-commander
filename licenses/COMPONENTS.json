@@ -1,6 +1,6 @@
 {
   "schema": "audion.build_licenses.components.v1",
-  "generated_utc": "2026-09-01T04:39:51Z",
+  "generated_utc": "2026-09-04T02:34:24Z",
   "project_id": "audion-setup-for-total-commander",
   "project_name": "Audion Setup for Total Commander",
   "scan_root": "S:\\Release\\Audion Setup for Total Commander",
@@ -29,7 +29,7 @@
         {
           "sha256": "a73809e1ac6a8712ede097eff90f0806480d792e0072c4b2a316e9664e48a80c",
           "display_name": "NOTICE-Audion-TC-Own-Binaries.md",
-          "source_path": "S:\\TOOLS\\Audion Build Licenses\\workspace\\runs\\20260901T043951Z_audion-setup-for-total-commander_4d3527d4\\collector_legal_files\\audion-tc-own-binaries-bundled\\NOTICE-Audion-TC-Own-Binaries.md",
+          "source_path": "S:\\TOOLS\\Audion Build Licenses\\workspace\\runs\\20260904T023424Z_audion-setup-for-total-commander_71e6bfa2\\collector_legal_files\\audion-tc-own-binaries-bundled\\NOTICE-Audion-TC-Own-Binaries.md",
           "raw_size": 3218
         }
       ],
@@ -79,7 +79,7 @@
         {
           "sha256": "a296f423c0d30ce3581435e78e7e36c5fe73984a882d8720c72e713b4593588b",
           "display_name": "LICENSE-fzf.txt",
-          "source_path": "S:\\TOOLS\\Audion Build Licenses\\workspace\\runs\\20260901T043951Z_audion-setup-for-total-commander_4d3527d4\\collector_legal_files\\fzf-bundled\\LICENSE-fzf.txt",
+          "source_path": "S:\\TOOLS\\Audion Build Licenses\\workspace\\runs\\20260904T023424Z_audion-setup-for-total-commander_71e6bfa2\\collector_legal_files\\fzf-bundled\\LICENSE-fzf.txt",
           "raw_size": 1106
         }
       ],
@@ -127,7 +127,7 @@
         {
           "sha256": "30ad49937b0754d61fe060986273b845a663491d947b08eee81f4aed4c562528",
           "display_name": "NOTICE-Total-Commander-Plugins-Review.md",
-          "source_path": "S:\\TOOLS\\Audion Build Licenses\\workspace\\runs\\20260901T043951Z_audion-setup-for-total-commander_4d3527d4\\collector_legal_files\\total-commander-plugin-dirsizecalc-2.22\\NOTICE-Total-Commander-Plugins-Review.md",
+          "source_path": "S:\\TOOLS\\Audion Build Licenses\\workspace\\runs\\20260904T023424Z_audion-setup-for-total-commander_71e6bfa2\\collector_legal_files\\total-commander-plugin-dirsizecalc-2.22\\NOTICE-Total-Commander-Plugins-Review.md",
           "raw_size": 4475
         }
       ],
@@ -190,7 +190,7 @@
         {
           "sha256": "7a26177ecda4f12f7644d63fc287e9a6a571f105141b3f970567c2b9aed65ef4",
           "display_name": "LICENSE-TC-Exif-MIT.txt",
-          "source_path": "S:\\TOOLS\\Audion Build Licenses\\workspace\\runs\\20260901T043951Z_audion-setup-for-total-commander_4d3527d4\\collector_legal_files\\total-commander-plugin-exif-2.8\\LICENSE-TC-Exif-MIT.txt",
+          "source_path": "S:\\TOOLS\\Audion Build Licenses\\workspace\\runs\\20260904T023424Z_audion-setup-for-total-commander_71e6bfa2\\collector_legal_files\\total-commander-plugin-exif-2.8\\LICENSE-TC-Exif-MIT.txt",
           "raw_size": 1169
         }
       ],
@@ -243,7 +243,7 @@
         {
           "sha256": "1f185e24d9b2a2a1b54afcb85235d7e1e10ea86b2f51e93de834b10a9eb630fb",
           "display_name": "LICENSE-MediaInfoLib-BSD-2-Clause.txt",
-          "source_path": "S:\\TOOLS\\Audion Build Licenses\\workspace\\runs\\20260901T043951Z_audion-setup-for-total-commander_4d3527d4\\collector_legal_files\\total-commander-plugin-mediainfo-26.05\\LICENSE-MediaInfoLib-BSD-2-Clause.txt",
+          "source_path": "S:\\TOOLS\\Audion Build Licenses\\workspace\\runs\\20260904T023424Z_audion-setup-for-total-commander_71e6bfa2\\collector_legal_files\\total-commander-plugin-mediainfo-26.05\\LICENSE-MediaInfoLib-BSD-2-Clause.txt",
           "raw_size": 2798
         }
       ],
@@ -302,7 +302,7 @@
         {
           "sha256": "c669f18dfcefb134f8021f3369845f23981361a3dfd138c7af999640d8ad993d",
           "display_name": "LICENSE-Office2007wlx-CPOL-1.02.txt",
-          "source_path": "S:\\TOOLS\\Audion Build Licenses\\workspace\\runs\\20260901T043951Z_audion-setup-for-total-commander_4d3527d4\\collector_legal_files\\total-commander-plugin-office2007-0.0.6.5\\LICENSE-Office2007wlx-CPOL-1.02.txt",
+          "source_path": "S:\\TOOLS\\Audion Build Licenses\\workspace\\runs\\20260904T023424Z_audion-setup-for-total-commander_71e6bfa2\\collector_legal_files\\total-commander-plugin-office2007-0.0.6.5\\LICENSE-Office2007wlx-CPOL-1.02.txt",
           "raw_size": 12543
         }
       ],
@@ -355,7 +355,7 @@
         {
           "sha256": "30ad49937b0754d61fe060986273b845a663491d947b08eee81f4aed4c562528",
           "display_name": "NOTICE-Total-Commander-Plugins-Review.md",
-          "source_path": "S:\\TOOLS\\Audion Build Licenses\\workspace\\runs\\20260901T043951Z_audion-setup-for-total-commander_4d3527d4\\collector_legal_files\\total-commander-plugin-webdav-3.2\\NOTICE-Total-Commander-Plugins-Review.md",
+          "source_path": "S:\\TOOLS\\Audion Build Licenses\\workspace\\runs\\20260904T023424Z_audion-setup-for-total-commander_71e6bfa2\\collector_legal_files\\total-commander-plugin-webdav-3.2\\NOTICE-Total-Commander-Plugins-Review.md",
           "raw_size": 4475
         }
       ],
@@ -412,13 +412,13 @@
         {
           "sha256": "b90ed8150a6d371c84b7dbaa680cd0e9893ef7c2558765e1e00930513efcfe3b",
           "display_name": "LICENSE-xPDFSearch-GPL-2.0.txt",
-          "source_path": "S:\\TOOLS\\Audion Build Licenses\\workspace\\runs\\20260901T043951Z_audion-setup-for-total-commander_4d3527d4\\collector_legal_files\\total-commander-plugin-xpdfsearch-1.47.1\\LICENSE-xPDFSearch-GPL-2.0.txt",
+          "source_path": "S:\\TOOLS\\Audion Build Licenses\\workspace\\runs\\20260904T023424Z_audion-setup-for-total-commander_71e6bfa2\\collector_legal_files\\total-commander-plugin-xpdfsearch-1.47.1\\LICENSE-xPDFSearch-GPL-2.0.txt",
           "raw_size": 18092
         },
         {
           "sha256": "30ad49937b0754d61fe060986273b845a663491d947b08eee81f4aed4c562528",
           "display_name": "NOTICE-Total-Commander-Plugins-Review.md",
-          "source_path": "S:\\TOOLS\\Audion Build Licenses\\workspace\\runs\\20260901T043951Z_audion-setup-for-total-commander_4d3527d4\\collector_legal_files\\total-commander-plugin-xpdfsearch-1.47.1\\NOTICE-Total-Commander-Plugins-Review.md",
+          "source_path": "S:\\TOOLS\\Audion Build Licenses\\workspace\\runs\\20260904T023424Z_audion-setup-for-total-commander_71e6bfa2\\collector_legal_files\\total-commander-plugin-xpdfsearch-1.47.1\\NOTICE-Total-Commander-Plugins-Review.md",
           "raw_size": 4475
         }
       ],
@@ -467,7 +467,7 @@
         {
           "sha256": "ad0cf28f3381ca9bb0bf101d127402d44c17bfa0991e1a00bff7ae6679e9dada",
           "display_name": "LICENSE-WindowsTerminal-MIT.txt",
-          "source_path": "S:\\TOOLS\\Audion Build Licenses\\workspace\\runs\\20260901T043951Z_audion-setup-for-total-commander_4d3527d4\\collector_legal_files\\windows-terminal-bundled\\LICENSE-WindowsTerminal-MIT.txt",
+          "source_path": "S:\\TOOLS\\Audion Build Licenses\\workspace\\runs\\20260904T023424Z_audion-setup-for-total-commander_71e6bfa2\\collector_legal_files\\windows-terminal-bundled\\LICENSE-WindowsTerminal-MIT.txt",
           "raw_size": 1116
         }
       ],
