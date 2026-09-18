@@ -8,14 +8,14 @@
   <a href="https://github.com/Tensionix/setup-for-total-commander/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/Tensionix/setup-for-total-commander?style=flat-square&color=5fd08a&logo=apache&logoColor=white&cacheSeconds=3600"></a>
 </p>
 
-**Version 1.0.1** · 2026-09-04 · 46.4 MB
+**Version 3.2.0** · 2026-09-18 · 26.3 MB
 
-- [Direct download](https://dl.audion.dev/setup-for-total-commander/1.0.1/Audion_Setup_for_Total_Commander_v1.0.1_Full.zip) — unmetered, no rate limits
+- [Direct download](https://dl.audion.dev/setup-for-total-commander/3.2.0/Audion_Setup_for_Total_Commander_v3.2.0_Full.zip) — unmetered, no rate limits
 - [Project page](https://audion.dev/downloads/setup-for-total-commander) — every version and how to install
 
 <p align="center"><img src="docs/screenshot.png" alt="The program window" width="560"></p>
 
-`SHA-256: 38899d356e09f7ecc6f0030f221323110be9f82d50a07359583e03b60087aab1`
+`SHA-256: 0f48ebd62428516a3bb1857710ecda9b4c49e9b02c1451d6f7406c97542f5408`
 
 ---
 
