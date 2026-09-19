@@ -1,13 +1,13 @@
 # Audion Build Licenses Scan Report
 
 - Project: **Audion Setup for Total Commander** (`audion-setup-for-total-commander`)
-- Run: `20260904T023424Z_audion-setup-for-total-commander_71e6bfa2`
-- Project root: `S:\Release\Audion Setup for Total Commander`
-- Scan root: `S:\Release\Audion Setup for Total Commander`
-- Output: `S:\Release\Audion Setup for Total Commander\licenses`
+- Run: `20260918T030038Z_audion-setup-for-total-commander_007d96ff`
+- Project root: `S:\Releases\Audion Setup for Total Commander`
+- Scan root: `S:\Releases\Audion Setup for Total Commander`
+- Output: `S:\Releases\Audion Setup for Total Commander\licenses`
 - Status: **PASS**
-- Components: 9
-- Bundled: 9
+- Components: 3
+- Bundled: 3
 - Optional runtime: 0
 
 ## Issues
@@ -20,13 +20,7 @@ No issues detected.
 |---|---|---:|---:|
 | Audion TC own binaries | `UNCHANGED` | bundled | bundled |
 | fzf | `UNCHANGED` | bundled | bundled |
-| Total Commander plugin: DirSizeCalc | `UNCHANGED` | 2.22 | 2.22 |
-| Total Commander plugin: Exif | `UNCHANGED` | 2.8 | 2.8 |
-| Total Commander plugin: MediaInfo | `UNCHANGED` | 26.05 | 26.05 |
 | Total Commander plugin: Office2007 | `UNCHANGED` | 0.0.6.5 | 0.0.6.5 |
-| Total Commander plugin: WebDAV | `UNCHANGED` | 3.2 | 3.2 |
-| Total Commander plugin: xPDFSearch | `UNCHANGED` | 1.47.1 | 1.47.1 |
-| Windows Terminal | `UNCHANGED` | bundled | bundled |
 
 ## Scope
 

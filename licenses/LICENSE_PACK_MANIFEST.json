@@ -1,36 +1,36 @@
 {
   "schema": "audion.build_licenses.pack_manifest.v1",
-  "generated_utc": "2026-09-04T02:34:24Z",
-  "run_id": "20260904T023424Z_audion-setup-for-total-commander_71e6bfa2",
+  "generated_utc": "2026-09-18T03:00:38Z",
+  "run_id": "20260918T030038Z_audion-setup-for-total-commander_007d96ff",
   "project_id": "audion-setup-for-total-commander",
   "project_name": "Audion Setup for Total Commander",
-  "scan_root": "S:\\Release\\Audion Setup for Total Commander",
-  "output_dir": "S:\\Release\\Audion Setup for Total Commander\\licenses",
+  "scan_root": "S:\\Releases\\Audion Setup for Total Commander",
+  "output_dir": "S:\\Releases\\Audion Setup for Total Commander\\licenses",
   "files": [
     {
       "name": "THIRD_PARTY_NOTICES.txt",
-      "sha256": "4d268d61667e2c7864b714d77e717647ca2b4072cffbfc432c2987a0acdade0e",
-      "size": 50615
+      "sha256": "07af37ba98e54bdb437e706ee18e8d18a46c242ac475ec37afd2805d04c460e4",
+      "size": 19290
     },
     {
       "name": "SOURCE_CODE_AVAILABILITY.txt",
-      "sha256": "e357e7768b7b70c01b4870797f6f471bb7fbcd9f9819ba4c16c29fbb511632e4",
-      "size": 1644
+      "sha256": "d069a5593d31cf7870430033ffd59560b639eb695da39a665220e9449612b273",
+      "size": 878
     },
     {
       "name": "COMPONENTS.json",
-      "sha256": "b1950e0abbe6afd8dfd9e95225bc0f1c703dc69d9e840348790658430f3df9b2",
-      "size": 20733
+      "sha256": "a48c957289dd287c935d3aec6cc07913d491cc02756b758edb8d958d03047178",
+      "size": 6022
     },
     {
       "name": "_records.json",
-      "sha256": "661ecf65b5efc8bb398a22b90f6a66accb85b4835fa1511e5be0667c7a37e117",
-      "size": 3873
+      "sha256": "a535abb920fdf0f89ca79a1cc4c803b885ae4fc44c923604d3bc642572f9e40d",
+      "size": 1286
     },
     {
       "name": "LICENSE_SCAN_REPORT.md",
-      "sha256": "f9a7e360892d0d64e27289bff3138eb07377b84f521382915b5197a76f5220f2",
-      "size": 1266
+      "sha256": "92689ab3f078d0d14e5464258a5adfc9178cc48422ff932cb90c220473873488",
+      "size": 887
     }
   ]
 }
